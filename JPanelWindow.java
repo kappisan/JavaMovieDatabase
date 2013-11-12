@@ -5,7 +5,7 @@ import java.awt.Font;
 import java.awt.GridLayout;
 import java.awt.image.BufferedImage;
 import java.io.IOException;
-
+//lol
 import javax.imageio.ImageIO;
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
@@ -131,7 +131,7 @@ public class JPanelWindow extends JFrame {
 		// SELECT GENRE
 		//***************************************
 		
-		String[] petStrings = { "Select Genre", "Action", "Advenure", "Crime", "Comedy", "Drama", "Horror",
+		String[] petStrings = { "Select Genre", "Action", "Adventure", "Crime", "Comedy", "Drama", "Horror",
 				"Romance", "Pornographic", "Science Fiction", "Documentry", "Historical",
 				"Musical", "Thriller", "War", "Western"};
 
